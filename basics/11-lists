@@ -1,4 +1,2 @@
 #!/bin/bash
-echo "Listing files in the current directory:"
-ls -la
-echo ""
+ls -la . .. /boot
